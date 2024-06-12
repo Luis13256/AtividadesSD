@@ -1,0 +1,1 @@
+Para executar o código, abra o repositório com o IntelliJ, primeiro execute BankServer.java, após execute a classe BankClient.java quantas vezes achar necessário.
